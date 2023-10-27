@@ -37,7 +37,7 @@ with open(taskFile, 'r') as file:
     data = json.load(file)
 taskObj = tasks()
 taskList = data
-response = taskObj.add(sessionId, taskList)
+response = taskObj.add(sessionId, [text["text"] for text in taskList["steps"]])
 if response:
     print("Task Added")
     try:
@@ -46,6 +46,7 @@ if response:
             brain2Status = brainObj.runLogCorrelator(sessionId)
             brain3Status = brainObj.runTaskValidator(sessionId)
             os.system('clear')
+            print("Session ID : {id}".format(id=sessionId))
             print("Brain Two Has Done Job : {status}".format(status=brain2Status))
             print("Brain Three Has Done Job : {status}".format(status=brain2Status))
             time.sleep(10)
