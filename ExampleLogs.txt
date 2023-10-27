@@ -1,0 +1,12 @@
+[
+    {"no": 1, "text": "I commenced by methodically organizing all essential ingredients on the workstation, ensuring that every component of the biryani was accounted for."},
+    {"no": 2, "text": "I skillfully marinated the mutton with a blend of yogurt, aromatic herbs, and spices, allowing it to rest for optimal infusion of flavors."},
+    {"no": 3, "text": "I meticulously washed the basmati rice, ensuring its clarity, followed by a thorough soaking to attain the desired grain elongation."},
+    {"no": 4, "text": "With precision, I heated the ghee in a heavy-bottomed pot and tempered it with whole spices, releasing their full aromatic potential."},
+    {"no": 5, "text": "I then expertly fried the onions to a perfect golden hue, reserving a portion for the final layering process."},
+    {"no": 6, "text": "Upon integrating the tomatoes, I ensured their complete breakdown before introducing the marinated mutton, allowing it to simmer to perfection."},
+    {"no": 7, "text": "Simultaneously, I monitored the rice in another vessel, ensuring it was par-boiled to retain its structural integrity during the 'dum' process."},
+    {"no": 8, "text": "I meticulously layered the partially cooked rice over the mutton, ensuring an even distribution for uniform cooking."},
+    {"no": 9, "text": "With a keen eye for detail, I garnished the assembly with the reserved onions, herbs, saffron-infused milk, and a drizzle of ghee for richness."},
+    {"no": 10, "text": "I sealed the pot with utmost care, ensuring an airtight environment for the 'dum' process. After patiently allowing it to cook, I unveiled a masterpiece of flavors and aromas, ready for service."}
+]
